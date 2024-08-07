@@ -1,10 +1,10 @@
-## Português 🇧🇷:
+## Português 🇧🇷
 
 Meu nome é Victor Prudente, nasci na Itália, porém cresci no Brasil, completei o ensino médio em 2019 no Colégio 7 de setembro e estou atualmente cursando engenharia de computação na universidade estadual de campinas (UNICAMP).
 
 Estou atualmente focado em estudar arquitetura de computadores, mas focado especificamente em sistemas RISC-V, contudo tenho interesse em diferentes áreas e gostaria de aprender diversas habilidades durante minha trajetória.
 
-## English 🇺🇸:
+## English 🇺🇸
 
 My name is Victor Prudente, I was born in Italy but grew up in Brazil, completed high school in 2019 at Colégio 7 de Setembro and am currently studying computer engineering at the state university of campinas (UNICAMP).
 
